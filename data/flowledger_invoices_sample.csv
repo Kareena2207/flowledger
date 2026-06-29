@@ -1,0 +1,5 @@
+invoice_id,client_name,issue_date,due_date,amount,currency,status
+INV-001,Northwind Studio,2026-06-01,2026-06-10,1200.00,USD,
+INV-002,Maple Labs,2026-06-12,2026-06-28,800.00,USD,
+INV-003,Northwind Studio,2026-06-15,2026-07-04,500.00,USD,
+INV-004,Beacon Copy,2026-05-20,2026-06-05,950.00,USD,

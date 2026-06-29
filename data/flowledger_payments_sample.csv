@@ -1,0 +1,4 @@
+payment_id,invoice_id,payment_date,amount,method,notes
+PAY-001,INV-001,2026-06-09,1200.00,Bank Transfer,Full payment
+PAY-002,INV-002,2026-06-20,300.00,UPI,Partial payment
+PAY-003,INV-004,2026-06-18,950.00,ACH,Full payment
