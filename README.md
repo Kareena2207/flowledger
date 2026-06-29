@@ -50,6 +50,16 @@ You can also use the built-in sample data buttons for a quick demo.
 
 - `data/flowledger_invoices_sample.csv`
 - `data/flowledger_payments_sample.csv`
+- `data/flowledger_invoices_demo_large.csv`
+- `data/flowledger_payments_demo_large.csv`
+
+## Demo
+
+- Video walkthrough: `demo/flowledger.mp4`
+- Quick browser demo:
+  1. Click `Try Sample Data`, or upload the CSV files from `data/`
+  2. Review the dashboard, alerts, and tables
+  3. Download the generated Excel report
 
 ## Test
 
